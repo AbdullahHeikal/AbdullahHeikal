@@ -12,7 +12,7 @@
 </p> 
 
 - 🏢 I'm an Embedded Software Engineer 
-- 👨‍💻 As an Electrical Engineering Student , I'm constantly learning and exploring new technologies to improve my skills.
+- 👨‍💻 As an Engineering Student , I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with C , C++ , Python ,computer Architecutre ,ARM ,communication protocols,Automotive and Embedded Linux, or anything related to Embedded systems .
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
