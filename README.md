@@ -12,15 +12,23 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Embedded%20Systems%20Engineer%20;Always%20learning&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm an Embedded Software Engineer 
+- 🏢 I'm an  Software testing Engineer 
 - 👨‍💻 As an Engineering Student , I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with C , C++ , Python ,computer Architecutre ,ARM ,communication protocols,Automotive and Embedded Linux, or anything related to Embedded systems .
+- 💬 Ask me about my experience with C , C++ , Python ,computer Architecutre ,ARM ,communication protocols,Automotive and Embedded Linux, Strong knowledge of ISTQB 
+ Foundation-Level Syllabus and software testing principles.
+ Writing Effective Test Cases, Bug Reports and Tracking Bugs Life Cycle.
+ Solid understanding of agile methodologies and SDLC.
+ Experienced in API testing using Postman, working with RESTful APIs, SOAP APIs.
+ Basic Knowledge of mobile application testing.
+ Proficient in Selenium WebDriver with Java for test automation
+ Experienced in managing tests using TestNG, Maven implementing Page Object Model (POM).
+ Good knowledge of SQL, Postgres and oracle databases. .
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/abdullah-heikal-6a7707211/" target="_blank"><img src="https://img.shields.io/badge/-Abdullah%20Heikal-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="[https://www.linkedin.com/in/abdullah-heikal-6a7707211/](https://www.linkedin.com/in/abdullah-heikal-1423b334b/)" target="_blank"><img src="https://img.shields.io/badge/-Abdullah%20Heikal-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.facebook.com/abdullahheikal99" target="_blank"><img src="https://img.shields.io/badge/-Abdullah%20Heikal-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C)&nbsp;
